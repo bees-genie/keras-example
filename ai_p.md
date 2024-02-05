@@ -57,6 +57,7 @@ print(loss)
 * Sparse categorical crossentropy
 
 멀티 클래스 분류에 사용 one-hot encoding 된 상태일 필요 없이 정수 인코딩 된 상태에서 수행 가능.
+
 ![categorical crossentropy 수식](https://velog.velcdn.com/images%2Frcchun%2Fpost%2Fbc1b41b8-ffb4-443a-b54e-e04e7fd236ce%2Fimage.png "categorical crossentropy수식")
 ![categorical crossentropy 수식](https://velog.velcdn.com/images%2Frcchun%2Fpost%2F87602861-f0dc-4175-82cc-020111d32f58%2Fimage.png "categorical crossentropy 수식")
 
