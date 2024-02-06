@@ -1,5 +1,5 @@
-# import ultralytics
-# ultralytics.checks()
+import ultralytics #pip install ultralytics (yolo v8 버전 라이브러리 설치 필요)
+ultralytics.checks() # yolo v8 버전 라이브러리 설치 확인
 # from PIL import Image
 
 # with Image.open('C:/Users/user/Desktop/test1.jpg') as test_image:
